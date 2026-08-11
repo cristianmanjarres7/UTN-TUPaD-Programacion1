@@ -8,8 +8,6 @@ Nombre: Cristian Manjarrés
 
 Comisión: A26 C1-10
 
-Legajo: 35802
-
 ## Contenido
 
 En este repositorio se encuentran organizadas las prácticas y trabajos realizados durante la cursada.
